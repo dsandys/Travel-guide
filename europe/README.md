@@ -1,3 +1,3 @@
 # EUROPE
 
-- [UK](/uk/README.md)
+- [UK](./uk/README.md)
